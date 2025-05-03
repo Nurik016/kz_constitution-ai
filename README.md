@@ -53,7 +53,8 @@ streamlit run ./main.py
 ### 5. Set Your Gemini API Key
 - In the Streamlit app's sidebar, you will see an input field labeled "Gemini API Key". 
 - Enter your API key there to enable the app to function correctly. 
-- You can obtain the Gemini API key from [Google's Gemini API documentation](https://developers.google.com/generative-ai).
+- Create Google Project [Google Project](https://console.cloud.google.com/cloud-resource-manager?walkthrough_id=resource-manager--create-project&start_index=1#step_index=1)
+- And choose project that created to get api [Google's Gemini API](https://aistudio.google.com/app/apikey?hl=ru&_gl=1*6t8ixf*_ga*NzAzODA2NjI4LjE3NDU5NDcxNTA.*_ga_P1DBVKWT6V*czE3NDYyNjQzMzAkbzgkZzEkdDE3NDYyNjQ0OTYkajMwJGwwJGgxNTQxNDAxOTEy).
 
 ### 6. Upload the Constitution File
 - In the sidebar, you will find a "File Uploader" widget. Upload the `constitution.txt` file there. 
