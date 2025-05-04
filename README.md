@@ -20,8 +20,8 @@ cd kz_constitution-ai
 
 #### On Windows:
 ```bash
-py -3.12 -m venv aienv
-.aienv\Scripts\Activate.ps1
+py -3.11 -m venv aienv
+.aienv\Scripts\Activate
 ```
 
 #### On MacOS/Linux:
