@@ -89,5 +89,10 @@ The project is structured as follows:
 - `handler_files.py`: Contains the logic for extracting text from uploaded files (txt, pdf, docx).
 - `vector_store.py`: Manages the Chroma vector store for storing and querying the text data.
 
+
+## 💻 Demo Screenshots
+![UI and Func](https://iimg.su/s/04/HfQuLpxzIo4DF8h0xMBfN4UOoian8pZ7gv4InTP8.png)
+![Bot response](https://iimg.su/s/04/l4PsA3G1n7pOnpiw0Qv2U4NVX0nUgNQVGsHYHXCm.png)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
